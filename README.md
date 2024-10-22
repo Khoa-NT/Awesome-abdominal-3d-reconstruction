@@ -9,7 +9,7 @@ A curated list of resources, tools, and research on 3D scene rendering and recon
     - [Weiss Open Data Server](#weiss-open-data-server)
     - [Simula Research Laboratory and SimulaMet](#simula-research-laboratory-and-simulamet)
     - [Colonoscopy 3D Video Dataset (C3VD)](#colonoscopy-3d-video-dataset-c3vd)
-    - [Adrien Bartoli - Code and datasets](#adrien-bartoli-code-and-datasets)   
+    - [Adrien Bartoli - Code and datasets](#adrien-bartoli---code-and-datasets)
 
 
 ## Dataset
