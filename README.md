@@ -22,6 +22,7 @@ A curated list of resources, tools, and research on 3D scene rendering and recon
 + Cholec80
 
 [Back to Table of Contents](#table-of-contents)
+<hr style="width:50%;text-align:left;margin-left:0">
 
 
 <!-- -->
@@ -31,6 +32,7 @@ Datasets from EndoVis 2015~2023
 + [SCARE](https://endovissub2019-scared.grand-challenge.org/)
 
 [Back to Table of Contents](#table-of-contents)
+<hr style="width:50%;text-align:left;margin-left:0">
 
 
 <!-- -->
@@ -38,6 +40,7 @@ Datasets from EndoVis 2015~2023
 ![Hamlyn](src/images/Hamlyn.png)
 
 [Back to Table of Contents](#table-of-contents)
+<hr style="width:50%;text-align:left;margin-left:0">
 
 
 <!-- -->
@@ -46,6 +49,7 @@ Datasets from EndoVis 2015~2023
 + [SERV-CT: A disparity dataset from cone-beam CT for validation of endoscopic 3D reconstruction](https://www.ucl.ac.uk/interventional-surgical-sciences/weiss-open-research/weiss-open-data-server/serv-ct) ([Dataset](https://rdr.ucl.ac.uk/articles/dataset/SERV-CT_A_disparity_dataset_from_cone-beam_CT_for_validation_of_endoscopic_3D_reconstruction/26352199); [Evaluation code](https://github.com/surgical-vision/servcttk))
 
 [Back to Table of Contents](#table-of-contents)
+<hr style="width:50%;text-align:left;margin-left:0">
 
 
 <!-- -->
@@ -53,6 +57,7 @@ Datasets from EndoVis 2015~2023
 ![SimulaMet](src/images/SimulaMet.png)
 
 [Back to Table of Contents](#table-of-contents)
+<hr style="width:50%;text-align:left;margin-left:0">
 
 
 <!-- -->
@@ -60,6 +65,7 @@ Datasets from EndoVis 2015~2023
 ![C3VD](src/images/C3VD.png)
 
 [Back to Table of Contents](#table-of-contents)
+<hr style="width:50%;text-align:left;margin-left:0">
 
 
 <!-- -->
@@ -68,3 +74,4 @@ Datasets from EndoVis 2015~2023
 ![Adrien_Bartoli](src/images/Adrien_Bartoli.png)
 
 [Back to Table of Contents](#table-of-contents)
+<hr style="width:50%;text-align:left;margin-left:0">
