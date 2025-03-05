@@ -80,7 +80,7 @@ Datasets from EndoVis 2015~2023
 
 <!-- -->
 ### [AbdomenAtlas](https://www.zongweiz.com/dataset)
-AbdomenAtlas & BodyMaps
+Introduction: [AbdomenAtlas](https://github.com/MrGiovanni/AbdomenAtlas) & BodyMaps
 
 | AbdomenAtlas | BodyMaps |
 |:-:|:-:|
