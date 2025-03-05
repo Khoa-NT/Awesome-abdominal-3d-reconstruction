@@ -71,12 +71,22 @@ Datasets from EndoVis 2015~2023
 <!-- -->
 ### [Adrien Bartoli - Code and datasets](https://encov.ip.uca.fr/ab/code_and_datasets/index.php)
 [Encov](https://encov.ip.uca.fr/)
+
 ![Adrien_Bartoli](src/images/Adrien_Bartoli.png)
 
 [Back to Table of Contents](#table-of-contents)
 <hr style="width:50%;text-align:left;margin-left:0">
 
 
+<!-- -->
+### [AbdomenAtlas](https://www.zongweiz.com/dataset)
+AbdomenAtlas & BodyMaps
 
+| AbdomenAtlas | BodyMaps |
+|:-:|:-:|
+|![alt text](src/images/AbdomenAtlas_1.png) | ![alt text](src/images/AbdomenAtlas_2.png)|
+
+<hr style="width:50%;text-align:left;margin-left:0">
+ 
 ## Other resources
 - [openmedlab/Awesome-Medical-Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset)
