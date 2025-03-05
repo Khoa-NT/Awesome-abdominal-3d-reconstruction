@@ -120,6 +120,8 @@ Datasets from EndoVis 2015~2023
 ### [AbdomenAtlas](https://www.zongweiz.com/dataset)
 Introduction: [AbdomenAtlas](https://github.com/MrGiovanni/AbdomenAtlas) & [BodyMaps](https://groups.google.com/g/bodymaps)
 
+Pre-trained 3D models [SuPreM](https://github.com/MrGiovanni/SuPreM)
+
 <details>
 <summary>Click to show/hide image</summary>
 
