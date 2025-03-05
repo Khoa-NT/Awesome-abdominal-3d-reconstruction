@@ -8,8 +8,7 @@
     - [Simula Research Laboratory and SimulaMet](#simula-research-laboratory-and-simulamet)
     - [Colonoscopy 3D Video Dataset (C3VD)](#colonoscopy-3d-video-dataset-c3vd)
     - [Adrien Bartoli - Code and datasets](#adrien-bartoli---code-and-datasets)
-
-
+- [Other resources](#other-resources)
 
 
 ## Dataset
@@ -20,6 +19,7 @@
 + MultiBypass140
 + CholecT50
 + Cholec80
++ [CholecSeg8k](https://www.kaggle.com/datasets/newslab/cholecseg8k)
 
 [Back to Table of Contents](#table-of-contents)
 <hr style="width:50%;text-align:left;margin-left:0">
@@ -75,3 +75,8 @@ Datasets from EndoVis 2015~2023
 
 [Back to Table of Contents](#table-of-contents)
 <hr style="width:50%;text-align:left;margin-left:0">
+
+
+
+## Other resources
+- [openmedlab/Awesome-Medical-Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset)
