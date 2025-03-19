@@ -1,6 +1,9 @@
 
-# Table of Contents
-- [Dataset](#dataset)
+<!------------------------------------------------------------------------------------------------------>
+## Table of Contents
+<!------------------------------------------------------------------------------------------------------>
+
+- [Research Groups and Their Published Datasets](#research-groups-and-their-published-datasets)
     - [Research Group CAMMA](#research-group-camma)
     - [EndoVis: Endoscopic Vision Challenge](#endovis-endoscopic-vision-challenge)
     - [Hamlyn Centre Laparoscopic / Endoscopic Video Datasets](#hamlyn-centre-laparoscopic-endoscopic-video-datasets)
@@ -9,10 +12,12 @@
     - [Colonoscopy 3D Video Dataset (C3VD)](#colonoscopy-3d-video-dataset-c3vd)
     - [Adrien Bartoli - Code and datasets](#adrien-bartoli---code-and-datasets)
 - [Other resources](#other-resources)
+- [List of datasets](#list-of-datasets)
 
 
-## Dataset
-<!-- -->
+<!------------------------------------------------------------------------------------------------------>
+## Research Groups and Their Published Datasets
+<!------------------------------------------------------------------------------------------------------>
 ### [Research Group CAMMA](http://camma.u-strasbg.fr/datasets/)
 
 + Endoscapes
@@ -130,7 +135,35 @@ Pre-trained 3D models [SuPreM](https://github.com/MrGiovanni/SuPreM)
 |![alt text](src/images/AbdomenAtlas_1.png) | ![alt text](src/images/AbdomenAtlas_2.png)|
 </details>
 
+[Back to Table of Contents](#table-of-contents)
 <hr style="width:50%;text-align:left;margin-left:0">
- 
+
+
+<!------------------------------------------------------------------------------------------------------>
 ## Other resources
+<!------------------------------------------------------------------------------------------------------>
 - [openmedlab/Awesome-Medical-Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset)
+
+[Back to Table of Contents](#table-of-contents)
+<hr style="width:50%;text-align:left;margin-left:0">
+
+
+
+<!------------------------------------------------------------------------------------------------------>
+## List of datasets
+<!------------------------------------------------------------------------------------------------------>
+<!-- Draft list of datasets: [SIS-PT-SAM](https://github.com/zijianwu1231/SIS-PT-SAM/blob/master/README.md?plain=1)
+* [EndoVis 2015](https://endovissub-instrument.grand-challenge.org/)
+* [EndoVis 2017](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/)
+* [EndoVis 2018](https://endovissub2018-roboticscenesegmentation.grand-challenge.org/home/)
+* [ROBUST-MIS 2019](https://www.synapse.org/Synapse:syn18779624/wiki/592660)
+* [AutoLaparo](https://autolaparo.github.io/)
+* [UCL dVRK](https://www.ucl.ac.uk/interventional-surgical-sciences/weiss-open-research/weiss-open-data-server/ex-vivo-dvrk-segmentation-dataset-kinematic-data)
+* [CholecSeg8k](https://www.kaggle.com/datasets/newslab/cholecseg8k)
+* [SAR-RARP50](https://rdr.ucl.ac.uk/articles/dataset/SAR-RARP50_train_set/24932529)
+* [STIR](https://ieee-dataport.org/open-access/stir-surgical-tattoos-infrared) -->
+
+
+
+[Back to Table of Contents](#table-of-contents)
+<hr style="width:50%;text-align:left;margin-left:0">
