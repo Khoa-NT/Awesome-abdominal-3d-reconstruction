@@ -139,6 +139,20 @@ Pre-trained 3D models [SuPreM](https://github.com/MrGiovanni/SuPreM)
 <hr style="width:50%;text-align:left;margin-left:0">
 
 
+
+<!-- -->
+### [Visual Understanding Research Group (VISURG)](https://visurg.ai/)
+Surg-3M dataset: [Surg-3M: A Dataset and Foundation Model for Perception in Surgical Settings](https://surg-3m.visurg.ai/)
+
+<details>
+<summary>Click to show/hide image</summary>
+
+<img src="https://surg-3m.visurg.ai/assets/DEMO.gif" alt="Surg-3M" width="300">
+
+</details>
+
+
+
 <!------------------------------------------------------------------------------------------------------>
 ## Other resources
 <!------------------------------------------------------------------------------------------------------>
